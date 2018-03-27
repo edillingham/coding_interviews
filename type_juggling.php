@@ -1,3 +1,5 @@
+<?php
+
 // find the bug
   
 $amount = '0.00';
